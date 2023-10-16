@@ -1,2 +1,4 @@
-Olá, sou um estudante de programação, mais especificamente, "Análise e desenvolvimento de sistemas", na Puc Minas. 
-Tenho 18 anos e comecei nesse mundo da programação em 2023. 
+🚀 ADS Student of University of PUC MINAS
+🧑🏻‍💻 HTML, SQL, JAVASCRIPT, CSS & PYTHON
+📧 Contacts // e-mail: caiocesarezende123@gmail.com || number: (31) 98418-3550
+👨🏻 18 years old and eager to learn 
