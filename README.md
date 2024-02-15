@@ -3,4 +3,4 @@
 📧 Contacts // e-mail: caiocesarezende123@gmail.com ||
 👨🏻 18 years old and eager to learn 
 
-![Caiosrz GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![caiosrz GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosrz&show_icons=true&theme=transparent)
