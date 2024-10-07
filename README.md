@@ -1,6 +1,6 @@
 🚀 Front-End ADS Student of University of PUC MINAS <br>
 🧑🏻‍💻 html, javascript, css, react-native & node.js <br>
-📧 Contact // e-mail: caiocesarezende123@gmail.com <br>
+📧 Contact: caiocesarezende123@gmail.com <br>
 👨🏻 19 years old and eager to learn 
 
 ![caiosrz GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosrz&show_icons=true&theme=transparent)
