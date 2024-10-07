@@ -6,7 +6,8 @@
 ![caiosrz GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosrz&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu cotidiano:
-<div>
-  <a>https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png</a>
-</div>
-
+HTML
+CSS
+JAVASCRIPT
+REACT-NATIVE
+NODE.JS
