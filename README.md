@@ -6,8 +6,4 @@
 ![caiosrz GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosrz&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu cotidiano:
-HTML
-CSS
-JAVASCRIPT
-REACT-NATIVE
-NODE.JS
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
