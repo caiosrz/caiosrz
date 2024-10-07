@@ -7,6 +7,6 @@
 
 ## Tecnologias que uso no meu cotidiano:
 <div>
-  https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png
+  <a>https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png</a>
 </div>
 
