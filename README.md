@@ -1,5 +1,5 @@
-🚀 Front-End ADS Student of University of PUC MINAS <br>
-🧑🏻‍💻 html, javascript, css, react-native & node.js <br>
+🚀 ADS Student of University of PUC MINAS <br>
+🧑🏻‍💻 html, javascript, css, react-native, c# & node.js <br>
 📧 Contact: caiocesarezende123@gmail.com <br>
 👨🏻 19 years old and eager to learn 
 
