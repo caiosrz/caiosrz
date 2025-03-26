@@ -1,5 +1,5 @@
 🚀 ADS Student of University of PUC MINAS <br>
-🧑🏻‍💻 html, javascript, css, react-native, c# & node.js <br>
+🧑🏻‍💻 html, javascript, css, react, next.js, sql <br>
 📧 Contact: caiocesarezende123@gmail.com <br>
 👨🏻 19 years old and eager to learn 
 
